@@ -1,0 +1,16 @@
+{
+    "searchByOrganizations": {
+        "apikey": "d958df9b-99a7-43d8-97a1-37a51fb666e0",
+        "queryText": "Рестораны",
+        "spn": "0.41198730468751776,0.20743150439891167",
+        "results": 500,
+        "rspn": 1
+    },
+    "map": {
+        "apikey": "0ae8bc53-0497-4d0b-bdd3-99c426c8161b",
+        "zoom": 12
+    },
+    "user": {
+        "defaultCoordinates": [55.75, 37.57]
+    }
+}
