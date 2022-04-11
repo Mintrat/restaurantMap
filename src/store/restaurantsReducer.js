@@ -15,4 +15,8 @@ const restaurantsReducer = (state = defaultState, action) => {
 }
 
 export default restaurantsReducer;
-export const addRestaurantsList = (payload) => ({ type: ADD_RESTAURANTS_LIST, payload });
+export const addRestaurantsList = payload => (
+    {
+        type: ADD_RESTAURANTS_LIST,
+        payload
+    });

@@ -14,4 +14,7 @@ const useReducer = (state = defaultState, action) => {
 }
 
 export default useReducer;
-export const setCoordinates = (payload) => ({ type: SET_COORDINATES, payload })
+export const setCoordinates = payload => (
+    {
+        type: SET_COORDINATES, payload
+    });

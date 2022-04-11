@@ -2,7 +2,7 @@ import React from 'react';
 import MainPage from './pages/MainPage'
 import Restaurant from './pages/RestaurantPage'
 import NotFound from "./components/notFound";
-import { BrowserRouter, Routes, Route,  } from "react-router-dom";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 function App() {
 
